@@ -36,3 +36,4 @@ src/main/resources/mixins.*([!.]).json
 *.blend2
 .kotlin/
 .codex
+dist/
